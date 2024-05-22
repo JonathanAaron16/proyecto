@@ -6,3 +6,4 @@ saludar()
 z = 20
 
 print(z +3)
+print(z)
